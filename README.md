@@ -1,7 +1,7 @@
 # BABEDERO_Garden_Engineering
 Modelo en 3D en BLENDER  para sustentar proyección 3D del subproyecto derivado de GARDEN ENGINEERING en la UPT , el cual propone la creación de estos modelos en las instalaciones propias de la universidad para ser colocados en ubicaciones estratégicas para fomentar la preservación de la fauna local 
 
-<!-- Failed to upload "aveparagif_gif_20250816_170558.gif" -->
+![Image](https://github.com/user-attachments/assets/812e0d35-a9d5-4fbf-9d51-87e1040d0d2a)
 
 
 ## **Consideraciones Legales**
